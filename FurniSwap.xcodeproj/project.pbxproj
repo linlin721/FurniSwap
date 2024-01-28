@@ -14,6 +14,24 @@
 		C92263342B60E0A000A455BB /* FurniSwapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92263332B60E0A000A455BB /* FurniSwapTests.swift */; };
 		C922633E2B60E0A000A455BB /* FurniSwapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C922633D2B60E0A000A455BB /* FurniSwapUITests.swift */; };
 		C92263402B60E0A000A455BB /* FurniSwapUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C922633F2B60E0A000A455BB /* FurniSwapUITestsLaunchTests.swift */; };
+		C92263622B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635E2B65CA1300A455BB /* LeagueSpartan-Regular.otf */; };
+		C92263632B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635E2B65CA1300A455BB /* LeagueSpartan-Regular.otf */; };
+		C92263642B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635E2B65CA1300A455BB /* LeagueSpartan-Regular.otf */; };
+		C92263652B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635F2B65CA1300A455BB /* LeagueSpartan-Bold.otf */; };
+		C92263662B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635F2B65CA1300A455BB /* LeagueSpartan-Bold.otf */; };
+		C92263672B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C922635F2B65CA1300A455BB /* LeagueSpartan-Bold.otf */; };
+		C92263682B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263602B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf */; };
+		C92263692B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263602B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf */; };
+		C922636A2B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263602B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf */; };
+		C922636B2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263612B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf */; };
+		C922636C2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263612B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf */; };
+		C922636D2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263612B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf */; };
+		C922636F2B65CB1E00A455BB /* FontStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = C922636E2B65CB1E00A455BB /* FontStyles.swift */; };
+		C92263702B65CB1E00A455BB /* FontStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = C922636E2B65CB1E00A455BB /* FontStyles.swift */; };
+		C92263712B65CB1E00A455BB /* FontStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = C922636E2B65CB1E00A455BB /* FontStyles.swift */; };
+		C92263732B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263722B65CDE900A455BB /* LeagueSpartan-Medium.otf */; };
+		C92263742B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263722B65CDE900A455BB /* LeagueSpartan-Medium.otf */; };
+		C92263752B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = C92263722B65CDE900A455BB /* LeagueSpartan-Medium.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,13 @@
 		C92263392B60E0A000A455BB /* FurniSwapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FurniSwapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C922633D2B60E0A000A455BB /* FurniSwapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurniSwapUITests.swift; sourceTree = "<group>"; };
 		C922633F2B60E0A000A455BB /* FurniSwapUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurniSwapUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C922635D2B65C9C200A455BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C922635E2B65CA1300A455BB /* LeagueSpartan-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-Regular.otf"; sourceTree = "<group>"; };
+		C922635F2B65CA1300A455BB /* LeagueSpartan-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-Bold.otf"; sourceTree = "<group>"; };
+		C92263602B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-ExtraBold.otf"; sourceTree = "<group>"; };
+		C92263612B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-ExtraLight.otf"; sourceTree = "<group>"; };
+		C922636E2B65CB1E00A455BB /* FontStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontStyles.swift; sourceTree = "<group>"; };
+		C92263722B65CDE900A455BB /* LeagueSpartan-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-Medium.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +119,13 @@
 		C92263212B60E09900A455BB /* FurniSwap */ = {
 			isa = PBXGroup;
 			children = (
+				C922635D2B65C9C200A455BB /* Info.plist */,
+				C922634C2B65C94300A455BB /* Fonts */,
 				C92263222B60E09900A455BB /* FurniSwapApp.swift */,
 				C92263242B60E09900A455BB /* ContentView.swift */,
 				C92263262B60E0A000A455BB /* Assets.xcassets */,
 				C92263282B60E0A000A455BB /* Preview Content */,
+				C922636E2B65CB1E00A455BB /* FontStyles.swift */,
 			);
 			path = FurniSwap;
 			sourceTree = "<group>";
@@ -125,6 +153,18 @@
 				C922633F2B60E0A000A455BB /* FurniSwapUITestsLaunchTests.swift */,
 			);
 			path = FurniSwapUITests;
+			sourceTree = "<group>";
+		};
+		C922634C2B65C94300A455BB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				C922635F2B65CA1300A455BB /* LeagueSpartan-Bold.otf */,
+				C92263722B65CDE900A455BB /* LeagueSpartan-Medium.otf */,
+				C92263602B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf */,
+				C92263612B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf */,
+				C922635E2B65CA1300A455BB /* LeagueSpartan-Regular.otf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +271,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C922636B2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */,
+				C92263732B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */,
+				C92263622B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */,
+				C92263682B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */,
 				C922632A2B60E0A000A455BB /* Preview Assets.xcassets in Resources */,
 				C92263272B60E0A000A455BB /* Assets.xcassets in Resources */,
+				C92263652B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +285,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C922636C2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */,
+				C92263632B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */,
+				C92263742B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */,
+				C92263692B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */,
+				C92263662B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +297,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C922636D2B65CA1300A455BB /* LeagueSpartan-ExtraLight.otf in Resources */,
+				C92263642B65CA1300A455BB /* LeagueSpartan-Regular.otf in Resources */,
+				C92263752B65CDE900A455BB /* LeagueSpartan-Medium.otf in Resources */,
+				C922636A2B65CA1300A455BB /* LeagueSpartan-ExtraBold.otf in Resources */,
+				C92263672B65CA1300A455BB /* LeagueSpartan-Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +314,7 @@
 			files = (
 				C92263252B60E09900A455BB /* ContentView.swift in Sources */,
 				C92263232B60E09900A455BB /* FurniSwapApp.swift in Sources */,
+				C922636F2B65CB1E00A455BB /* FontStyles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +322,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C92263702B65CB1E00A455BB /* FontStyles.swift in Sources */,
 				C92263342B60E0A000A455BB /* FurniSwapTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,6 +333,7 @@
 			files = (
 				C92263402B60E0A000A455BB /* FurniSwapUITestsLaunchTests.swift in Sources */,
 				C922633E2B60E0A000A455BB /* FurniSwapUITests.swift in Sources */,
+				C92263712B65CB1E00A455BB /* FontStyles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +478,7 @@
 				DEVELOPMENT_TEAM = 2ZZ57V5523;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FurniSwap/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +508,7 @@
 				DEVELOPMENT_TEAM = 2ZZ57V5523;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FurniSwap/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
